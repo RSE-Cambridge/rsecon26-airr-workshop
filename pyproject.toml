@@ -1,0 +1,16 @@
+[project]
+name = "rsecon26-airr-workshop"
+version = "0.1.0"
+description = "Workshop material for rsecon26"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "datasets>=5.0.1",
+    "jinja2>=3.1.6",
+    "matplotlib>=3.11.1",
+    "openai>=3.6.0",
+    "pandas>=3.0.5",
+    "python-dotenv>=1.2.3",
+    "rich>=15.0.0",
+    "scikit-learn>=1.9.0",
+]
