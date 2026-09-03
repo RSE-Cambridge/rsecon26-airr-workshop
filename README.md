@@ -46,8 +46,8 @@ During this workshop, we will:
 ## Clone this repository
 
 ```bash
-git clone ...
-cd ...
+git clone https://github.com/RSE-Cambridge/rsecon26-airr-workshop.git
+cd rsecon26-airr-workshop
 ```
 
 This repository uses UV to manage environments, so if you don't have it:
