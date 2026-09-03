@@ -96,7 +96,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [license-shield]: https://img.shields.io/badge/License-MIT-brightgreen.svg
 [license-url]: https://github.com/RSE-Cambridge/rsecon26-airr-workshop?tab=MIT-1-ov-file
-[issues-shield]: https://img.shields.io/github/issues-raw/RSE-Cambridge/rsecon26-airr-workshop.svg?maxAge=25000
+[issues-shield]: https://img.shields.io/github/issues-raw/RSE-Cambridge/rsecon26-airr-workshop.svg?style=flat
 [issues-url]: https://github.com/RSE-Cambridge/rsecon26-airr-workshop/issues
 [contributors-shield]: https://img.shields.io/github/contributors/RSE-Cambridge/rsecon26-airr-workshop.svg?style=flat
 [contributors-url]: https://github.com/RSE-Cambridge/rsecon26-airr-workshop/graphs/contributors
@@ -105,3 +105,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 [stars-shield]: https://img.shields.io/github/stars/RSE-Cambridge/rsecon26-airr-workshop.svg?style=social&label=Star
 [stars-url]: https://github.com/RSE-Cambridge/rsecon26-airr-workshop/stargazers
 [watchers-shield]: https://img.shields.io/github/watchers/RSE-Cambridge/rsecon26-airr-workshop.svg?style=social&label=Watch
+[watchers-url]: https://github.com/RSE-Cambridge/rsecon26-airr-workshop/watchers
+[forks-shield]: https://img.shields.io/github/forks/RSE-Cambridge/rsecon26-airr-workshop.svg?style=social&label=Fork
+[forks-url]: https://github.com/RSE-Cambridge/rsecon26-airr-workshop/network/members
