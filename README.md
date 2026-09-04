@@ -78,7 +78,7 @@ and just put your API Key in here. We use `dotenv` to load the `base_url` and `a
 
 There are two notebooks available here to play with.
 
-- `example-calls.ipynb` is an intrdduction to some of the basic calls available.  
+- `example-calls.ipynb` is an introduction to some of the basic calls available.  
 - `llm-judging.ipynb` sets up an example where we use LLMs to judge the correctness of medical statements.
 
 
